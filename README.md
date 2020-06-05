@@ -20,7 +20,7 @@
 
 ##### Foi feita a Home do projeto utilizando apenas HTML e CSS. Também usamos os materiais (arquivos svg) disponibilizados pela Rocketseat.
 
-![pagInicial](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/form.JPG)
+![pagInicial](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/home.JPG)
 
 ## 🤓 Dia 2 - Inicio da construção da página de registro:
 
