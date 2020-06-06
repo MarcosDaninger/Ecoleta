@@ -32,6 +32,6 @@
 
 ##### Foi feito a segunda parte do formulário utilizando técnicas de CSS e HTML e também a página search results onde mostra os pontos de coletas cadastrados na plataforma.
 
-![search](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/search.JPG)
+![search](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/search%20-%20Copia.JPG)
 
 🏷 Os dados serão atualizados até o fim do Bootcamp. 🏷
