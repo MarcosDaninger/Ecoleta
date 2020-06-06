@@ -1,4 +1,5 @@
 body::after {
+    content: "";
     background: white;
     position: fixed;
     top: 280px;
