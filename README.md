@@ -11,15 +11,21 @@
 
 #### Checklist
 - [x] Dia 1 - Construção da Home
-- [ ] Dia 2
+- [x] Dia 2 - Inicio da construção da página de registro
 - [ ] Dia 3
 - [ ] Dia 4
 - [ ] Dia 5
 
 ## 🥳 Dia 1 - Construção da Home:
 
-##### Foi feita a Home do projeto utilizando apenas HTML e CSS. Utilizando os materiais (arquivos svg) disponibilizados pela Rocketseat.
+##### Foi feita a Home do projeto utilizando apenas HTML e CSS. Também usamos os materiais (arquivos svg) disponibilizados pela Rocketseat.
 
-![paginaInicial](https://github.com/pushline/Next-Level-Week/blob/master/assets/img1.jpg)
+![pagInicial](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/home.JPG)
+
+## 🤓 Dia 2 - Inicio da construção da página de registro:
+
+##### Foi feita a página do formulário para o usuário se cadastrar adicionando campos de nome e endereço. Foi utilizado além do CSS e HTML, o JavaScript e API's do IBGE para selecionar estados e cidades.
+
+![form](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/form.JPG)
 
 🏷 Os dados serão atualizados até o fim do Bootcamp. 🏷
