@@ -12,7 +12,7 @@
 #### Checklist
 - [x] Dia 1 - Construção da Home
 - [x] Dia 2 - Inicio da construção da página de registro
-- [ ] Dia 3
+- [x] Dia 3 - Finalização da página de registro e criação da página search results:
 - [ ] Dia 4
 - [ ] Dia 5
 
@@ -27,5 +27,11 @@
 ##### Foi feita a página do formulário para o usuário se cadastrar adicionando campos de nome e endereço. Foi utilizado além do CSS e HTML, o JavaScript e API's do IBGE para selecionar estados e cidades.
 
 ![form](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/form.JPG)
+
+## 😎 Dia 3 - Finalização da página de registro e criação da página search results:
+
+##### Foi feito a segunda parte do formulário utilizando técnicas de CSS e HTML e também a página search results onde mostra os pontos de coletas cadastrados na plataforma.
+
+![search](https://github.com/MarcosDaninger/Ecoleta/blob/master/Prints/search.JPG)
 
 🏷 Os dados serão atualizados até o fim do Bootcamp. 🏷
